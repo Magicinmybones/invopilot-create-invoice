@@ -1,0 +1,7 @@
+{
+  "name": "invopilot-create-invoice",
+  "compatibility_date": "2026-10-23",
+  "assets": {
+    "directory": "./site"
+  }
+}
