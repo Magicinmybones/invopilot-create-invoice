@@ -6,6 +6,8 @@ Standalone static prototype from `invopilot-create-invoice(1).html`.
 
 The deployable site is in `site/`. Embedded images and fonts were extracted to `site/assets/`.
 
+The opening sequence runs once on page load, leaves the invoice gradient fixed, skips itself for reduced-motion users, and clears its animation styles after 2.2 seconds.
+
 ## Deploy
 
 ```sh
